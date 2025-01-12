@@ -1,6 +1,6 @@
 # Association
 
-Here’s the content formatted for a GitHub README file:
+
 
 Hibernate Associations
 This repository demonstrates the implementation of various associations in Hibernate. Below is a summary of the relationships implemented:
